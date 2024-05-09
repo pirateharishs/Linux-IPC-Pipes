@@ -1,13 +1,5 @@
 # Linux-IPC--Pipes
 
-NAME: RAMYA.P
-
-REGISTER NUMBER: 212223240137
-
-DEPARTMENT: AIML
-
-Linux-IPC-Pipes
-
 # Ex03-Linux IPC - Pipes
 
 # AIM:
